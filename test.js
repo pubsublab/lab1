@@ -21,3 +21,11 @@ function b(b){
 function c(b){
 	console.log(true);
 }
+
+/*
+ * @slack #reuse
+ */
+
+function d(b){
+	console.log(true);
+}
