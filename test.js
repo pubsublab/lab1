@@ -37,3 +37,11 @@ function d(b){
 function e(b){
 	console.log(true);
 }
+
+/*
+ * @slack #reuse
+ */
+
+function avichay(shahar){
+	return lior;
+}
