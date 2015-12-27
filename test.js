@@ -45,3 +45,11 @@ function e(b){
 function avichay(shahar){
 	return lior;
 }
+
+/*
+ * @slack #reuse
+ */
+
+function avichay2(shahar){
+	return lior;
+}
