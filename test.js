@@ -53,3 +53,11 @@ function avichay(shahar){
 function avichay2(shahar){
 	return lior;
 }
+
+/*
+ * @slack this function will output lior from avichay3 #reuse
+ */
+
+function avichay3(shahar){
+	return lior;
+}
