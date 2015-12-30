@@ -111,3 +111,12 @@ function parseParams (cmd, args, cb) {
     }
   })
 }
+
+
+/*
+ * @slack its my message and i cry if i want to #reuse
+ */
+
+function fgf(b){
+	console.log(true);
+}
