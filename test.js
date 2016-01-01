@@ -120,3 +120,11 @@ function parseParams (cmd, args, cb) {
 function fgf(b){
 	console.log(true);
 }
+
+/*
+ * @slack SlackOverfloe #reuse
+ */
+
+function slackOverflow(b){
+	console.log(true);
+}
